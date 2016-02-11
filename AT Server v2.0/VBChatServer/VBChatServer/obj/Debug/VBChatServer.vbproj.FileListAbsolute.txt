@@ -1,0 +1,97 @@
+c:\users\akhil\documents\visual studio 2013\Projects\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe.config
+c:\users\akhil\documents\visual studio 2013\Projects\VBChatServer\VBChatServer\obj\Debug\VBChatServer.Resources.resources
+c:\users\akhil\documents\visual studio 2013\Projects\VBChatServer\VBChatServer\obj\Debug\VBChatServer.vbproj.GenerateResource.Cache
+c:\users\akhil\documents\visual studio 2013\Projects\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe
+c:\users\akhil\documents\visual studio 2013\Projects\VBChatServer\VBChatServer\bin\Debug\VBChatServer.pdb
+c:\users\akhil\documents\visual studio 2013\Projects\VBChatServer\VBChatServer\bin\Debug\VBChatServer.xml
+c:\users\akhil\documents\visual studio 2013\Projects\VBChatServer\VBChatServer\obj\Debug\VBChatServer.exe
+c:\users\akhil\documents\visual studio 2013\Projects\VBChatServer\VBChatServer\obj\Debug\VBChatServer.xml
+c:\users\akhil\documents\visual studio 2013\Projects\VBChatServer\VBChatServer\obj\Debug\VBChatServer.pdb
+C:\Users\Akhil\Desktop\AT Client Server v9.0\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe.config
+C:\Users\Akhil\Desktop\AT Client Server v9.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.exe
+C:\Users\Akhil\Desktop\AT Client Server v9.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.xml
+C:\Users\Akhil\Desktop\AT Client Server v9.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.pdb
+C:\Users\Akhil\Desktop\AT Client Server v9.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.vbprojResolveAssemblyReference.cache
+C:\Users\Akhil\Desktop\AT Client Server v9.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.Resources.resources
+C:\Users\Akhil\Desktop\AT Client Server v9.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.vbproj.GenerateResource.Cache
+C:\Users\Akhil\Desktop\AT Client Server v9.0\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe
+C:\Users\Akhil\Desktop\AT Client Server v9.0\VBChatServer\VBChatServer\bin\Debug\VBChatServer.pdb
+C:\Users\Akhil\Desktop\AT Client Server v9.0\VBChatServer\VBChatServer\bin\Debug\VBChatServer.xml
+C:\Users\Akhil\Desktop\AT Client Server v9.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe.config
+C:\Users\Akhil\Desktop\AT Client Server v9.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.exe
+C:\Users\Akhil\Desktop\AT Client Server v9.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.xml
+C:\Users\Akhil\Desktop\AT Client Server v9.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.pdb
+C:\Users\Akhil\Desktop\AT Client Server v9.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe
+C:\Users\Akhil\Desktop\AT Client Server v9.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.pdb
+C:\Users\Akhil\Desktop\AT Client Server v9.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.xml
+C:\Users\Akhil\Desktop\AT Client Server v9.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.vbprojResolveAssemblyReference.cache
+C:\Users\Akhil\Desktop\AT Client Server v9.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.Resources.resources
+C:\Users\Akhil\Desktop\AT Client Server v9.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.vbproj.GenerateResource.Cache
+C:\Users\Akhil\Desktop\AT Client SErver v14.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe.config
+C:\Users\Akhil\Desktop\AT Client SErver v14.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.exe
+C:\Users\Akhil\Desktop\AT Client SErver v14.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.xml
+C:\Users\Akhil\Desktop\AT Client SErver v14.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.pdb
+C:\Users\Akhil\Desktop\AT Client SErver v14.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.vbprojResolveAssemblyReference.cache
+C:\Users\Akhil\Desktop\AT Client SErver v14.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.Resources.resources
+C:\Users\Akhil\Desktop\AT Client SErver v14.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.vbproj.GenerateResource.Cache
+C:\Users\Akhil\Desktop\AT Client SErver v14.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe
+C:\Users\Akhil\Desktop\AT Client SErver v14.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.pdb
+C:\Users\Akhil\Desktop\AT Client SErver v14.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.xml
+C:\Users\Akhil\Desktop\AT Client Server v15.0\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe.config
+C:\Users\Akhil\Desktop\AT Client Server v15.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.exe
+C:\Users\Akhil\Desktop\AT Client Server v15.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.xml
+C:\Users\Akhil\Desktop\AT Client Server v15.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.pdb
+C:\Users\Akhil\Desktop\AT Client Server v15.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe.config
+C:\Users\Akhil\Desktop\AT Client Server v15.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.exe
+C:\Users\Akhil\Desktop\AT Client Server v15.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.xml
+C:\Users\Akhil\Desktop\AT Client Server v15.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.pdb
+C:\Users\Akhil\Desktop\AT Client Server v15.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe
+C:\Users\Akhil\Desktop\AT Client Server v15.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.pdb
+C:\Users\Akhil\Desktop\AT Client Server v15.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.xml
+C:\Users\Akhil\Desktop\AT Client Server v15.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.vbprojResolveAssemblyReference.cache
+C:\Users\Akhil\Desktop\AT Client Server v15.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.Resources.resources
+C:\Users\Akhil\Desktop\AT Client Server v15.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.vbproj.GenerateResource.Cache
+C:\Users\Akhil\Desktop\AT Client Server v16.0\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe.config
+C:\Users\Akhil\Desktop\AT Client Server v16.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.exe
+C:\Users\Akhil\Desktop\AT Client Server v16.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.xml
+C:\Users\Akhil\Desktop\AT Client Server v16.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.pdb
+C:\Users\Akhil\Desktop\AT Client Server v17.0\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe.config
+C:\Users\Akhil\Desktop\AT Client Server v17.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.exe
+C:\Users\Akhil\Desktop\AT Client Server v17.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.xml
+C:\Users\Akhil\Desktop\AT Client Server v17.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.pdb
+C:\Users\Akhil\Desktop\AT Client Server v17.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe.config
+C:\Users\Akhil\Desktop\AT Client Server v17.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.exe
+C:\Users\Akhil\Desktop\AT Client Server v17.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.xml
+C:\Users\Akhil\Desktop\AT Client Server v17.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.pdb
+C:\Users\Akhil\Desktop\AT Client Server v17.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.Resources.resources
+C:\Users\Akhil\Desktop\AT Client Server v17.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.vbproj.GenerateResource.Cache
+C:\Users\Akhil\Desktop\AT Client Server v17.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe
+C:\Users\Akhil\Desktop\AT Client Server v17.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.pdb
+C:\Users\Akhil\Desktop\AT Client Server v17.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.xml
+C:\Users\Royston\Desktop\Akhil\AT Client Server v17.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe.config
+C:\Users\Royston\Desktop\Akhil\AT Client Server v17.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.exe
+C:\Users\Royston\Desktop\Akhil\AT Client Server v17.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.xml
+C:\Users\Royston\Desktop\Akhil\AT Client Server v17.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.pdb
+C:\Users\Royston\Desktop\Akhil\AT Client Server v17.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe
+C:\Users\Royston\Desktop\Akhil\AT Client Server v17.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.pdb
+C:\Users\Royston\Desktop\Akhil\AT Client Server v17.0 - Copy\VBChatServer\VBChatServer\bin\Debug\VBChatServer.xml
+C:\Users\Royston\Desktop\Akhil\AT Client Server v17.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.Resources.resources
+C:\Users\Royston\Desktop\Akhil\AT Client Server v17.0 - Copy\VBChatServer\VBChatServer\obj\Debug\VBChatServer.vbproj.GenerateResource.Cache
+C:\Users\Royston\Desktop\Akhil\AT Client Server v18.0\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe.config
+C:\Users\Royston\Desktop\Akhil\AT Client Server v18.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.exe
+C:\Users\Royston\Desktop\Akhil\AT Client Server v18.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.xml
+C:\Users\Royston\Desktop\Akhil\AT Client Server v18.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.pdb
+C:\Users\Royston\Desktop\Akhil\AT Client Server v18.0\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe
+C:\Users\Royston\Desktop\Akhil\AT Client Server v18.0\VBChatServer\VBChatServer\bin\Debug\VBChatServer.pdb
+C:\Users\Royston\Desktop\Akhil\AT Client Server v18.0\VBChatServer\VBChatServer\bin\Debug\VBChatServer.xml
+C:\Users\Royston\Desktop\Akhil\AT Client Server v18.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.Resources.resources
+C:\Users\Royston\Desktop\Akhil\AT Client Server v18.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.vbproj.GenerateResource.Cache
+C:\Users\Royston\Desktop\AT Server v1.0\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe.config
+C:\Users\Royston\Desktop\AT Server v1.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.exe
+C:\Users\Royston\Desktop\AT Server v1.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.xml
+C:\Users\Royston\Desktop\AT Server v1.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.pdb
+C:\Users\Royston\Desktop\AT Server v1.0\VBChatServer\VBChatServer\bin\Debug\VBChatServer.exe
+C:\Users\Royston\Desktop\AT Server v1.0\VBChatServer\VBChatServer\bin\Debug\VBChatServer.pdb
+C:\Users\Royston\Desktop\AT Server v1.0\VBChatServer\VBChatServer\bin\Debug\VBChatServer.xml
+C:\Users\Royston\Desktop\AT Server v1.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.Resources.resources
+C:\Users\Royston\Desktop\AT Server v1.0\VBChatServer\VBChatServer\obj\Debug\VBChatServer.vbproj.GenerateResource.Cache

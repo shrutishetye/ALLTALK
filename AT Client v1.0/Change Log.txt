@@ -1,0 +1,29 @@
+Version 1.0
+
+-Has All Features Of 4.0,7.0,8.0,9.0,10.0,11.0,12.0,14.0,15.0,16.0,17.0,18.0 AT Client Except For Translation
+-Has All Feature Of AT Translation Engine 1.0,1.1,1.2,2.0,2.1,2.3,2.4
+-Redefined Ip Endpoint Acquistion In Connect Function To Be Reserve Compatible With AT Phone
+-Created Packet Manager Class And Seperated Packet Manager Functions From Main Form
+-Handled Cross Threading Functionalitiy For Packet Header Class
+-Defined Safe Form Updater For Cross Threading
+
+- By
+                                                                                     
+<(<<~-.                                                                           .~)>>
+  <((<<~-.                                                                      .~))>>    
+   <((<<~-.                                                                  .-~))>>
+    <((<<(<~-.                                                            .-~))>>)>
+         <(<<(<~-.                                                      .-~)>>)>
+         <((((((<<(<~-.                                            .-~)))))>>)>
+              <(((((<<(<~-.                                    .-~))))>>)>
+           <((<<((((<<(< ~-.                                  .-~))>>)))))>>)>
+            <(<<((((((<<(<~-.                                .-~)>>)))))>>)>
+          <((((((<<(((((<<(<\\            		    //)))))))>>))))>>)>
+             <(((((<<((((<<(<\\           HeX34K           //))))))>>)))>>)>
+            <(((<<((((((((<<(<\\      The Silver Wing     //)))>>))))))))>>)>
+               <(<<((((((((<<(<\\                        //)>>))))))))>>)>
+                <((((((<<(((((<<\\                      //)))))))>>))))>>
+                   <((<<((((((<<<\\                    //))>>))))))>>> 
+                   <((((((<<((((<<\\                  //)))))))>>)))>>
+	                 <(<<(((((<<\                /)>>)))))>> 
+        

@@ -1,0 +1,36 @@
+Vaersion 2.0
+
+-Has Features Of AT Phone 1.0
+-Has All Features Of 4.0,7.0,8.0,9.0,10.0,11.0,12.0,14.0,15.0,16.0,17.0,18.0 AT Client Except For Translation
+-Designed ATPin Verification Page
+-Defined a SafePageUpdater Class For Thread Aand Instance Specific Calls
+-Redefined UserState For Registeration And Verification Page
+
+Version 1.0-
+
+-Has All Features Of 4.0,7.0,8.0,9.0,10.0,11.0,12.0,14.0,15.0,16.0,17.0,18.0 AT Client Except For Translation
+-Redefined Ip Endpoint Acquistion In Connect Function To Be Reserve Compatible With UserClient
+-Defined Navigation Header And Updated User State Functionality
+-Created Packet Manager Class For Packet Handling And Sending
+-Designed Registeration Page 
+
+- By
+                                                                                     
+<(<<~-.                                                                           .~)>>
+  <((<<~-.                                                                      .~))>>    
+   <((<<~-.                                                                  .-~))>>
+    <((<<(<~-.                                                            .-~))>>)>
+         <(<<(<~-.                                                      .-~)>>)>
+         <((((((<<(<~-.                                            .-~)))))>>)>
+              <(((((<<(<~-.                                    .-~))))>>)>
+           <((<<((((<<(< ~-.                                  .-~))>>)))))>>)>
+            <(<<((((((<<(<~-.                                .-~)>>)))))>>)>
+          <((((((<<(((((<<(<\\            		    //)))))))>>))))>>)>
+             <(((((<<((((<<(<\\           HeX34K           //))))))>>)))>>)>
+            <(((<<((((((((<<(<\\      The Silver Wing     //)))>>))))))))>>)>
+               <(<<((((((((<<(<\\                        //)>>))))))))>>)>
+                <((((((<<(((((<<\\                      //)))))))>>))))>>
+                   <((<<((((((<<<\\                    //))>>))))))>>> 
+                   <((((((<<((((<<\\                  //)))))))>>)))>>
+	                 <(<<(((((<<\                /)>>)))))>> 
+        

@@ -1,0 +1,88 @@
+c:\users\akhil\documents\visual studio 2013\Projects\AT Client\AT Client\bin\Debug\AT Client.exe.config
+c:\users\akhil\documents\visual studio 2013\Projects\AT Client\AT Client\bin\Debug\AT Client.exe
+c:\users\akhil\documents\visual studio 2013\Projects\AT Client\AT Client\bin\Debug\AT Client.pdb
+c:\users\akhil\documents\visual studio 2013\Projects\AT Client\AT Client\bin\Debug\AT Client.xml
+c:\users\akhil\documents\visual studio 2013\Projects\AT Client\AT Client\obj\Debug\AT_Client.Resources.resources
+c:\users\akhil\documents\visual studio 2013\Projects\AT Client\AT Client\obj\Debug\AT Client.vbproj.GenerateResource.Cache
+c:\users\akhil\documents\visual studio 2013\Projects\AT Client\AT Client\obj\Debug\AT Client.exe
+c:\users\akhil\documents\visual studio 2013\Projects\AT Client\AT Client\obj\Debug\AT Client.xml
+c:\users\akhil\documents\visual studio 2013\Projects\AT Client\AT Client\obj\Debug\AT Client.pdb
+c:\users\akhil\documents\visual studio 2013\Projects\AT Client\AT Client\obj\Debug\AT_Client.ATForm.resources
+C:\Users\Akhil\Desktop\AT Client Server v16.0\AT Client\AT Client\bin\Debug\AT Client.exe.config
+C:\Users\Akhil\Desktop\AT Client Server v16.0\AT Client\AT Client\obj\Debug\AT Client.exe
+C:\Users\Akhil\Desktop\AT Client Server v16.0\AT Client\AT Client\obj\Debug\AT Client.xml
+C:\Users\Akhil\Desktop\AT Client Server v16.0\AT Client\AT Client\obj\Debug\AT Client.pdb
+C:\Users\Akhil\Desktop\AT Client Server v16.0\AT Client\AT Client\bin\Debug\AT Client.exe
+C:\Users\Akhil\Desktop\AT Client Server v16.0\AT Client\AT Client\bin\Debug\AT Client.pdb
+C:\Users\Akhil\Desktop\AT Client Server v16.0\AT Client\AT Client\bin\Debug\AT Client.xml
+C:\Users\Akhil\Desktop\AT Client Server v16.0\AT Client\AT Client\obj\Debug\AT_Client.ATForm.resources
+C:\Users\Akhil\Desktop\AT Client Server v16.0\AT Client\AT Client\obj\Debug\AT_Client.Resources.resources
+C:\Users\Akhil\Desktop\AT Client Server v16.0\AT Client\AT Client\obj\Debug\AT Client.vbproj.GenerateResource.Cache
+C:\Users\Akhil\Desktop\AT Client Server v16.0 - Copy\AT Client\AT Client\bin\Debug\AT Client.exe.config
+C:\Users\Akhil\Desktop\AT Client Server v16.0 - Copy\AT Client\AT Client\obj\Debug\AT Client.exe
+C:\Users\Akhil\Desktop\AT Client Server v16.0 - Copy\AT Client\AT Client\obj\Debug\AT Client.xml
+C:\Users\Akhil\Desktop\AT Client Server v16.0 - Copy\AT Client\AT Client\obj\Debug\AT Client.pdb
+C:\Users\Akhil\Desktop\AT Client Server v16.0 - Copy\AT Client\AT Client\obj\Debug\AT_Client.ATForm.resources
+C:\Users\Akhil\Desktop\AT Client Server v16.0 - Copy\AT Client\AT Client\obj\Debug\AT_Client.Resources.resources
+C:\Users\Akhil\Desktop\AT Client Server v16.0 - Copy\AT Client\AT Client\obj\Debug\AT Client.vbproj.GenerateResource.Cache
+C:\Users\Akhil\Desktop\AT Client Server v16.0 - Copy\AT Client\AT Client\bin\Debug\AT Client.exe
+C:\Users\Akhil\Desktop\AT Client Server v16.0 - Copy\AT Client\AT Client\bin\Debug\AT Client.pdb
+C:\Users\Akhil\Desktop\AT Client Server v16.0 - Copy\AT Client\AT Client\bin\Debug\AT Client.xml
+C:\Users\Akhil\Desktop\AT Client Server v17.0\AT Client\AT Client\bin\Debug\AT Client.exe.config
+C:\Users\Akhil\Desktop\AT Client Server v17.0\AT Client\AT Client\obj\Debug\AT Client.exe
+C:\Users\Akhil\Desktop\AT Client Server v17.0\AT Client\AT Client\obj\Debug\AT Client.xml
+C:\Users\Akhil\Desktop\AT Client Server v17.0\AT Client\AT Client\obj\Debug\AT Client.pdb
+C:\Users\Akhil\Desktop\AT Client Server v17.0\AT Client\AT Client\bin\Debug\AT Client.exe
+C:\Users\Akhil\Desktop\AT Client Server v17.0\AT Client\AT Client\bin\Debug\AT Client.pdb
+C:\Users\Akhil\Desktop\AT Client Server v17.0\AT Client\AT Client\bin\Debug\AT Client.xml
+C:\Users\Akhil\Desktop\AT Client Server v17.0\AT Client\AT Client\obj\Debug\AT_Client.ATForm.resources
+C:\Users\Akhil\Desktop\AT Client Server v17.0\AT Client\AT Client\obj\Debug\AT_Client.Resources.resources
+C:\Users\Akhil\Desktop\AT Client Server v17.0\AT Client\AT Client\obj\Debug\AT Client.vbproj.GenerateResource.Cache
+C:\Users\Akhil\Desktop\AT Client Server v17.0 - Copy\AT Client\AT Client\bin\Debug\AT Client.exe.config
+C:\Users\Akhil\Desktop\AT Client Server v17.0 - Copy\AT Client\AT Client\obj\Debug\AT Client.exe
+C:\Users\Akhil\Desktop\AT Client Server v17.0 - Copy\AT Client\AT Client\obj\Debug\AT Client.xml
+C:\Users\Akhil\Desktop\AT Client Server v17.0 - Copy\AT Client\AT Client\obj\Debug\AT Client.pdb
+C:\Users\Royston\Desktop\Akhil\AT Client Server v17.0 - Copy\AT Client\AT Client\bin\Debug\AT Client.exe.config
+C:\Users\Royston\Desktop\Akhil\AT Client Server v17.0 - Copy\AT Client\AT Client\obj\Debug\AT Client.exe
+C:\Users\Royston\Desktop\Akhil\AT Client Server v17.0 - Copy\AT Client\AT Client\obj\Debug\AT Client.xml
+C:\Users\Royston\Desktop\Akhil\AT Client Server v17.0 - Copy\AT Client\AT Client\obj\Debug\AT Client.pdb
+C:\Users\Royston\Desktop\Akhil\AT Client Server v17.0 - Copy\AT Client\AT Client\bin\Debug\AT Client.exe
+C:\Users\Royston\Desktop\Akhil\AT Client Server v17.0 - Copy\AT Client\AT Client\bin\Debug\AT Client.pdb
+C:\Users\Royston\Desktop\Akhil\AT Client Server v17.0 - Copy\AT Client\AT Client\bin\Debug\AT Client.xml
+C:\Users\Royston\Desktop\Akhil\AT Client Server v17.0 - Copy\AT Client\AT Client\obj\Debug\AT_Client.ATForm.resources
+C:\Users\Royston\Desktop\Akhil\AT Client Server v17.0 - Copy\AT Client\AT Client\obj\Debug\AT_Client.Resources.resources
+C:\Users\Royston\Desktop\Akhil\AT Client Server v17.0 - Copy\AT Client\AT Client\obj\Debug\AT Client.vbproj.GenerateResource.Cache
+C:\Users\Royston\Desktop\Akhil\AT Client Server v18.0\AT Client\AT Client\bin\Debug\AT Client.exe.config
+C:\Users\Royston\Desktop\Akhil\AT Client Server v18.0\AT Client\AT Client\obj\Debug\AT Client.exe
+C:\Users\Royston\Desktop\Akhil\AT Client Server v18.0\AT Client\AT Client\obj\Debug\AT Client.xml
+C:\Users\Royston\Desktop\Akhil\AT Client Server v18.0\AT Client\AT Client\obj\Debug\AT Client.pdb
+C:\Users\Royston\Desktop\Akhil\AT Client Server v18.0\AT Client\AT Client\bin\Debug\AT Client.exe
+C:\Users\Royston\Desktop\Akhil\AT Client Server v18.0\AT Client\AT Client\bin\Debug\AT Client.pdb
+C:\Users\Royston\Desktop\Akhil\AT Client Server v18.0\AT Client\AT Client\bin\Debug\AT Client.xml
+C:\Users\Royston\Desktop\Akhil\AT Client Server v18.0\AT Client\AT Client\obj\Debug\AT_Client.ATForm.resources
+C:\Users\Royston\Desktop\Akhil\AT Client Server v18.0\AT Client\AT Client\obj\Debug\AT_Client.Resources.resources
+C:\Users\Royston\Desktop\Akhil\AT Client Server v18.0\AT Client\AT Client\obj\Debug\AT Client.vbproj.GenerateResource.Cache
+C:\Users\Royston\Desktop\AT Client Server v18.0\AT Client\AT Client\bin\Debug\AT Client.exe.config
+C:\Users\Royston\Desktop\AT Client Server v18.0\AT Client\AT Client\obj\Debug\AT Client.exe
+C:\Users\Royston\Desktop\AT Client Server v18.0\AT Client\AT Client\obj\Debug\AT Client.xml
+C:\Users\Royston\Desktop\AT Client Server v18.0\AT Client\AT Client\obj\Debug\AT Client.pdb
+C:\Users\Royston\Desktop\AT Client Server v18.0\AT Client\AT Client\bin\Debug\AT Client.exe
+C:\Users\Royston\Desktop\AT Client Server v18.0\AT Client\AT Client\bin\Debug\AT Client.pdb
+C:\Users\Royston\Desktop\AT Client Server v18.0\AT Client\AT Client\bin\Debug\AT Client.xml
+C:\Users\Royston\Desktop\AT Client Server v18.0\AT Client\AT Client\obj\Debug\AT_Client.ATForm.resources
+C:\Users\Royston\Desktop\AT Client Server v18.0\AT Client\AT Client\obj\Debug\AT_Client.Resources.resources
+C:\Users\Royston\Desktop\AT Client Server v18.0\AT Client\AT Client\obj\Debug\AT Client.vbproj.GenerateResource.Cache
+C:\Users\Royston\Desktop\AT Client v1.0\AT Client\AT Client\bin\Debug\AT Client.exe.config
+C:\Users\Royston\Desktop\AT Client v1.0\AT Client\AT Client\obj\Debug\AT Client.exe
+C:\Users\Royston\Desktop\AT Client v1.0\AT Client\AT Client\obj\Debug\AT Client.xml
+C:\Users\Royston\Desktop\AT Client v1.0\AT Client\AT Client\obj\Debug\AT Client.pdb
+C:\Users\Royston\Desktop\AT Client v1.0\AT Client\AT Client\bin\Debug\AT Client.exe
+C:\Users\Royston\Desktop\AT Client v1.0\AT Client\AT Client\bin\Debug\AT Client.pdb
+C:\Users\Royston\Desktop\AT Client v1.0\AT Client\AT Client\bin\Debug\AT Client.xml
+C:\Users\Royston\Desktop\AT Client v1.0\AT Client\AT Client\obj\Debug\AT_Client.ATForm.resources
+C:\Users\Royston\Desktop\AT Client v1.0\AT Client\AT Client\obj\Debug\AT_Client.Resources.resources
+C:\Users\Royston\Desktop\AT Client v1.0\AT Client\AT Client\obj\Debug\AT Client.vbproj.GenerateResource.Cache
+D:\RSA\New folder\ALLTALK\AT Client v1.0\AT Client\AT Client\bin\Debug\AT Client.exe.config
+D:\RSA\New folder\ALLTALK\AT Client v1.0\AT Client\AT Client\obj\Debug\AT Client.exe
+D:\RSA\New folder\ALLTALK\AT Client v1.0\AT Client\AT Client\obj\Debug\AT Client.xml
+D:\RSA\New folder\ALLTALK\AT Client v1.0\AT Client\AT Client\obj\Debug\AT Client.pdb
